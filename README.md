@@ -46,3 +46,6 @@ Transform your content operations into a fully autonomous engine.
 
 ---
 *Developed by [Naroka Studio](https://github.com/Naroka-Studio)*
+
+---
+*Developed by [Naroka Studio](https://github.com/Naroka-Studio)*
