@@ -43,9 +43,5 @@ This workflow is provided as a professional-grade JSON template. It includes:
 Transform your content operations into a fully autonomous engine.
 
 [**👉 Get DeepPublish AI on Gumroad**](https://naroka.gumroad.com/l/deeppublish-ai)
-
----
-*Developed by [Naroka Studio](https://github.com/Naroka-Studio)*
-
 ---
 *Developed by [Naroka Studio](https://github.com/Naroka-Studio)*
