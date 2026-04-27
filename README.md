@@ -2,6 +2,9 @@
 
 This is the technical documentation hub for the **DeepPublish AI** ecosystem. An industrial-grade n8n workflow designed to transform raw news feeds into high-authority social media presence.
 
+### 🛠 Architecture Preview
+![DeepPublish Schema](изображение_2026-04-28_005541412.png)
+
 ### 🧠 System Intelligence
 - **Deep Research:** Powered by Jina AI to analyze full article contexts, not just headlines.
 - **Smart Scoring:** Gemini Pro / GPT-4 filters and selects only the most relevant leads based on your niche.
