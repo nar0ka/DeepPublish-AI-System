@@ -52,7 +52,7 @@ I develop **custom automation and AI assistants using n8n** that work 24/7 and s
 
 ### Get in touch:
 
-* 💬 **Telegram:** @nar00ka — let’s discuss your idea in 10 minutes.
+* 💬 **Telegram:** [t.me/nar00ka](https://t.me/nar00ka) — let’s discuss your idea in 10 minutes.
 * 🐙 **GitHub:** https://github.com/nar0ka — explore my open-source projects.
 * 📦 **Gumroad:** https://naroka.gumroad.com — check out ready-to-use workflows.
 
