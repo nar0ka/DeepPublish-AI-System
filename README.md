@@ -2,6 +2,7 @@
 
 ![n8n](https://img.shields.io/badge/n8n-certified-red) ![AI](https://img.shields.io/badge/AI-Jina%20|%20Gemini%20|%20GPT--4o-blue) ![Automation](https://img.shields.io/badge/Focus-Content%20Ops-orange) ![Status](https://img.shields.io/badge/Status-Production%20Ready-green)
 
+
 This is the technical documentation hub for the **DeepPublish AI** ecosystem. An industrial-grade n8n workflow designed to transform raw news feeds into high-authority social media presence.
 
 ---
